@@ -3,6 +3,7 @@
     background-image: url(https://wallpapercave.com/wp/wp8579502.jpg);
     background-size: 1600px;
 }
+
 #Title {
     color: azure;
     font-family: 'Baskerville Old Face';
@@ -14,49 +15,57 @@
     text-shadow: 0.5px 0.5px 0.5px mediumblue, 0 0 0.1em mediumblue, 0 0 0.1em mediumblue;
     background-color: rgb(0,0,0,0.3);
 }
+
 #Q1 {
     color: black;
     font: bold 20px larger,larger;
     font-family: Arial;
     text-shadow: 0.5px 0.5px 0.5px mediumblue, 0 0 0.1em mediumblue, 0 0 0.1em mediumblue;
 }
+
 #Q2 {
     color: black;
     font: bold 20px larger,larger;
     font-family: Arial;
     text-shadow: 0.5px 0.5px 0.5px mediumblue, 0 0 0.1em mediumblue, 0 0 0.1em mediumblue;
 }
+
 #Q3 {
     color: black;
     font: bold 20px larger,larger;
     font-family: Arial;
     text-shadow: 0.5px 0.5px 0.5px mediumblue, 0 0 0.1em mediumblue, 0 0 0.1em mediumblue;
 }
+
 #Q4 {
     color: black;
     font: bold 20px larger,larger;
     font-family: Arial;
     text-shadow: 0.5px 0.5px 0.5px mediumblue, 0 0 0.1em mediumblue, 0 0 0.1em mediumblue;
 }
+
 #Body {
     color: azure;
     font-size: 16px;
     font-stretch: wider;
     font-family: Arial;
 }
+
 #Body2 {
     color: azure;
     font-size: 16px;
     font-stretch: wider;
     font-family: Arial;
 }
+
 #Body3 {
     color: azure;
     font-size: 16px;
     font-stretch: wider;
     font-family: Arial;
 }
-    .scroller {
+
+.scroller {
     text-align: left;
     width: 250px;
     height: 250px;
